@@ -1,2 +1,2 @@
-# Time-series-analysys
+# Time-series-analysis
 Time series analysys on energy dataset
